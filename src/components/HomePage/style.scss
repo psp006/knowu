@@ -1,0 +1,13 @@
+#home-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  .home-page-heading {
+    font-size: 40px;
+    line-height: 52px;
+    font-weight: 500;
+    color: #1d1d1d;
+    margin-bottom: 50px;
+  }
+}
